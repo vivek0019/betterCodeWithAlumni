@@ -8,3 +8,11 @@ Given nums = [2, 7, 11, 15], target = 9,
 
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
+
+
+Reference video link  :
+1. https://www.youtube.com/watch?v=WIoZuhAC1p4
+2. https://www.youtube.com/watch?v=gCin6Qz-eJQ
+
+GeeksforGeeks article link :
+1. https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
